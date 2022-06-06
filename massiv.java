@@ -1,3 +1,5 @@
+package Lections;
+
 // import java.util.Scanner;
 /**
  * Двумерный массив
