@@ -18,10 +18,6 @@ public class tower {
         hanoy( n-1, aux_rod,  to_rod, from_rod);
         
     }
-    // int n = 33;
-    
-    // n = n-- - --n;
-    // System.out.println(n);
     
     public static void main(String args[]) {
         
